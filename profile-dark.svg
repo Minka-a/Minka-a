@@ -872,8 +872,9 @@
   <rect class="h v0" x="856" y="402" width="12" height="12" rx="2.5" style="transform-origin:862px 408px;animation-delay:1.9s"/>
   <rect class="h v0" x="856" y="418" width="12" height="12" rx="2.5" style="transform-origin:862px 424px;animation-delay:1.91s"/>
   <rect class="h v0" x="872" y="322" width="12" height="12" rx="2.5" style="transform-origin:878px 328px;animation-delay:1.83s"/>
+  <rect class="h v0" x="872" y="338" width="12" height="12" rx="2.5" style="transform-origin:878px 344px;animation-delay:1.85s"/>
   <rect class="best" x="853" y="383" width="18" height="18" rx="4"/>
-  <rect class="today" x="871" y="321" width="14" height="14" rx="3" style="transform-origin:878px 328px"/>
+  <rect class="today" x="871" y="337" width="14" height="14" rx="3" style="transform-origin:878px 344px"/>
   <polygon class="tabm" points="1008,284 1015,284 1011,304 1004,304" style="transform-origin:1004px 304px;animation-delay:0.7s"/>
   <text class="mono tabl" x="1026" y="299" style="animation-delay:0.8s">CONTACT</text>
   <line class="tabr" x1="1132.6" y1="294" x2="1168.6" y2="294" style="transform-origin:1132.6px 294px;animation-delay:0.9s"/>
@@ -888,5 +889,5 @@
 </svg>
 
   <text class="pg-foot" x="40" y="1200">github.com/Minka-a</text>
-  <text class="pg-foot" x="1220" y="1200" text-anchor="end">mis &#xE0; jour le 22/11/2026</text>
+  <text class="pg-foot" x="1220" y="1200" text-anchor="end">mis &#xE0; jour le 23/11/2026</text>
 </svg>
